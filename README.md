@@ -1,3 +1,4 @@
+
 Linear Equation with one predictor variable will be in the form of Y = MX + C. In our process we need to identify "M" and "C".
 
 M = Sum[(x-x')*(y-y')]/Sum[(x-x')^2]
@@ -17,3 +18,4 @@ Step3: Find C substituting x_mean, y_mean and M value in linear equation
 Step4: Drawing Regression line in the plot
 
 Step5: Verification of model with Rsquare method R^2 = Sum(Yp-y')^2 / Sum (y-y')^2
+![download (1)](https://user-images.githubusercontent.com/85917956/121994088-4468cb00-cdc2-11eb-9ed5-18b17531ea53.png)
